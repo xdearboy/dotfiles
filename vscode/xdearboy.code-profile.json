@@ -1,0 +1,62 @@
+{
+    // Python settings
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    // Theme and Appearance
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    // Editor Settings
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.accessibilitySupport": "off",
+    "editor.semanticHighlighting.enabled": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    // Workbench Settings
+    "workbench.editor.labelFormat": "short",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.location": "top",
+    "workbench.statusBar.visible": true,
+    // Explorer Settings
+    "explorer.compactFolders": false,
+    "explorer.fileNesting.enabled": true,
+    "explorer.confirmDelete": false,
+    // Git Settings
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    // APC Customizations
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset"
+    },
+    "apc.header": {
+        "height": 36
+    },
+    "apc.listRow": {
+        "height": 24
+    },
+    "apc.font.family": "JetBrains Mono",
+    // Codeium Settings ( default )
+    "codeium.enableConfig": {
+        "*": true,
+        "markdown": true
+    },
+    "codeium.enableSearch": true,
+    // Other
+    "remote.autoForwardPortsSource": "hybrid",
+    "security.workspace.trust.untrustedFiles": "open",
+    "symbols.hidesExplorerArrows": false
+}
