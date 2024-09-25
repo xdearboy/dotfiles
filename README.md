@@ -37,7 +37,7 @@ Java:
 
 Automations & Help:
 - Codeium (AI with autocomplete)
-- GitsHub Tools (Suite of tools for Github)
+- GitHub Tools (Suite of tools for Github)
 - YAML (.yml, .yaml files typehints)
 - Color Picker (Color Picker for VSCode)
 - EditorConfig (Support for .editorconfig files.)
