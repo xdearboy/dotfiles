@@ -51,7 +51,7 @@ Other:
 - Vscode Terminal Themes (Terminal Themes for VSCode)
 ```
 
-# [xdearboy.code-profile](https://github.com/xdearboy/dotfiles/tree/main/vscode/xdearboy.code-profile)
+# [xdearboy.code-profile](https://github.com/xdearboy/dotfiles/tree/main/vscode/xdearboy.code-profile.json)
 
 ```
 Inspired by: https://github.com/nixxoq/dotfiles and https://github.com/devbutlazy/dotfiles
